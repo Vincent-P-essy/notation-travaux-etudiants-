@@ -12,6 +12,12 @@ Ce projet automatise la compilation, les tests et l’évaluation de plusieurs p
 
 ---
 
+## Execution preview
+
+![notation-travaux-etudiants- execution](docs/screenshots/execution.png)
+
+Local execution of `python main.py`. The input and output shown come from the repository example or test fixtures. [Verification](docs/verification.md).
+
 ##  Structure du dépôt
 
 ```

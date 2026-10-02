@@ -1,0 +1,7 @@
+[
+  {
+    "command": "python main.py",
+    "exit": 0,
+    "output": "Fichier CSV généré : resultats.csv\n"
+  }
+]

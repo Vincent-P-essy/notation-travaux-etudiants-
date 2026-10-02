@@ -1,0 +1,4 @@
+$ python main.py
+Fichier CSV généré : resultats.csv
+
+Exit: 0
