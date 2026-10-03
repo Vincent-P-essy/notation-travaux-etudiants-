@@ -36,8 +36,8 @@ Ce projet automatise la compilation, les tests et l’évaluation de plusieurs p
 
 1. **Cloner le dépôt**  
    ```bash
-   git clone https://github.com/tonuser/tp-noteur.git
-   cd tp-noteur
+   git clone https://github.com/Vincent-P-essy/notation-travaux-etudiants-.git
+   cd notation-travaux-etudiants-
    ```
 
 2. **Ajouter les fichiers `.c`**  
